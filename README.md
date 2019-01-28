@@ -2,4 +2,4 @@
 DEVSimulator with C++
 
 ## User Guide
-read DEVSim++DEVGuide.pdf
+Read DEVSim++DEVGuide.pdf
