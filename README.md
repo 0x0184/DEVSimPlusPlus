@@ -1,5 +1,5 @@
 # DEVSimPlusPlus
 DEVSimulator with C++
 
-# User Guide
+## User Guide
 read DEVSim++DEVGuide.pdf
