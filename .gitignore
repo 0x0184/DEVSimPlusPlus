@@ -1,0 +1,18 @@
+# MacOs
+.DS_Store
+
+# Visual Studio
+/.vs
+/out
+
+# Visual Studio Code
+/.vscode
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Make
+Makefile
+*.out
